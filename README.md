@@ -163,3 +163,9 @@ You can test the API using:
 ## 📄 License
 
 This project is open-source under the MIT License.
+
+
+## 🔖 Tags
+
+`Node.js` `Express` `Prisma` `PostgreSQL` `Backend API` `Identity Resolution` `REST API`
+
